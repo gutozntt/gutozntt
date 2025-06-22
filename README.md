@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gus</h1>
 <h3 align="center">a Senior A DevOps Engineer who's been playing with cloud infrastructure since 2017.</h3>
 
+- 🔭 I’m currently working on **BSC Analytics**
+
+- 💬 Ask me about **Cloud, DevOps, CI/CD, AI-driven Apps, AI Agents**
+
+- 📫 How to reach me **gutozntt1995@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gutozntt&label=Profile%20views&color=0e75b6&style=flat" alt="gutozntt" /> </p>
 
 ### Blogs posts
