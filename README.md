@@ -5,6 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS ALB with Nginx Ingress Controller — The Ultimate Guide](https://medium.com/@gustavo.zanotto/using-aws-alb-with-nginx-ingress-controller-the-ultimate-guide-51933ba36e35?source=rss-ad3d14d31c65------2)
+- [An Easy Way to Secure Your Website Without Adding A Login Layer in AWS](https://medium.com/@gustavo.zanotto/an-easy-way-to-secure-your-website-without-adding-a-login-layer-in-aws-e3629de5538a?source=rss-ad3d14d31c65------2)
+- [The day I deleted the production INGRESS namespace in K8S](https://medium.com/@gustavo.zanotto/the-day-i-deleted-the-production-ingress-namespace-in-k8s-9ba4f56a7f05?source=rss-ad3d14d31c65------2)
+- [Terraform “For Expression”: How to Dynamically Provision Infrastructure in AWS](https://medium.com/@gustavo.zanotto/terraform-for-expression-how-to-dynamically-provision-infrastructure-in-aws-8961453f1b6b?source=rss-ad3d14d31c65------2)
+- [How to Deploy Terraform Modules as Service Catalog Products on AWS](https://medium.com/@gustavo.zanotto/how-to-deploy-terraform-modules-as-service-catalog-products-on-aws-8c48e923125e?source=rss-ad3d14d31c65------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
